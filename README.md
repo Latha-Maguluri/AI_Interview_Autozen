@@ -12,7 +12,9 @@ This project simulates an **AI-powered interview system** using Microsoft's [Aut
 
 .
 ├── Ai_interview.py # Main script to run the multi-agent interview
+
 ├── .env # (Optional) Store your OpenAI API key securely
+
 ├── README.md # Project documentation
 
 yaml
